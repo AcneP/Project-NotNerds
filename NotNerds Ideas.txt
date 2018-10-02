@@ -1,39 +1,69 @@
 Members:
 Pablo Lepe
-Tony 
+Tony
 Tristan (aka Monty)
 Omar Alhinnawi
 Fahad
 
 
+Brainstorming
 
-Math
-Flash cards pop out molcule and have two cards keep on recycling them and its likea  random order keep on poppin out.
-AR board game
 
-Put in a set of flash cards and shuffle through them
-As you go to ceratin location snotes pop up, then it would remind you that something is going on.
-parties hagnourts social events
+*****AR Math Application:
+Flash cards pop out molecules and have two cards keep on recycling them and its like random order keep on popping out,
+so we can do the same with math equations.
+We can add a 3d visualization of the function (its just 2d writing floating in space) we can separate functions
+with the use of index cards, or cards that people can print out. We can take a step further and when the user
+closes in on the equation, it will show the definitions of the parts of the equation such as the coefficients,
+powers, etc. We can specialize one of the cards to be a "graph card" that produces a 3D graph of the equation
+when connected.
+
+
+*****AR board game
+
+*****Put in a set of flash cards and shuffle through them
+*****Reminders based on location
+As you go to certain location notes pop up, then it would remind you that something is going on.
+*****Something to do with Networking
+parties hangouts social events
 Networking
 Networking
 connect to social media
 Remember birthdays
+
 pretty
 Pencil
-an app to show vectors, showing electric fields
-chatbot
-thermodynamics
-homeowrk in real life
+
+*****An app to show vectors, showing electric fields (could be included as dlc for the math app,
+not standalone)
+*****chatbot
+*****thermodynamics(Again, could be DLC for the math app, not standalone)
+
+homework in real life
 recipe book
+
+*****AR modulator
 apps that make ar apps
-scans your fridge and tells you what to makes
+
+
+*****Item Scanner
+Scans your fridge and tells you what to makes
 a barcode reader that pops up with a sprite that price matches
 food app to see the amount of food you get in a menu in a 3d model
 scan title of the restaurant it shows you the rating of the restaurant.
-scan an item and see if theres any coupons 
-bagraphs in 3d that show audio in background, height shows certain type of bound or frequency, higher pitches can be higher colors, making soudn visual.
-When somebody is blind, they can see the picture, it gives you the frequency relative to the picture.
-An outfit preview, you have a database of clothes and you put it on your person. 
-Whenever people mention a movie a little note pops up on the side o fthe screeen
-app taht can identify any font, like adobe capture.
+scan an item and see if theres any coupons
+
+*****Audio Workstation
+Bar graphs in 3d that show audio in background, height shows certain type of bound or frequency,
+*****Picture visualization for the blind
+Higher pitches can be higher colors, making sound visual.
+they can see the picture, it gives you the frequency relative to the picture.
+
+*****An outfit preview
+You have a database of clothes and you put it on your person.
+*****A topic reminder
+Whenever people mention a movie (or a certain topic) a little note pops up on the side of the screen
+*****English helper
+App that can identify any font, like adobe capture.
+*****Identifier (like for forensics)
 take a picture to scans someones face, and it looks for other pages with that face.

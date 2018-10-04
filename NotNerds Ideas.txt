@@ -9,7 +9,7 @@ Fahad
 Brainstorming
 
 
-*****AR Math Application:
+*****AR Math Application: #1
 Flash cards pop out molecules and have two cards keep on recycling them and its like random order keep on popping out,
 so we can do the same with math equations.
 We can add a 3d visualization of the function (its just 2d writing floating in space) we can separate functions
@@ -19,11 +19,14 @@ powers, etc. We can specialize one of the cards to be a "graph card" that produc
 when connected.
 
 
-*****AR board game
+*****AR board games #2
 
 *****Put in a set of flash cards and shuffle through them
-*****Reminders based on location
+
+*****Reminders based on location #3
+
 As you go to certain location notes pop up, then it would remind you that something is going on.
+
 *****Something to do with Networking
 parties hangouts social events
 Networking
@@ -61,7 +64,7 @@ they can see the picture, it gives you the frequency relative to the picture.
 
 *****An outfit preview
 You have a database of clothes and you put it on your person.
-*****A topic reminder
+*****A topic reminder #3
 Whenever people mention a movie (or a certain topic) a little note pops up on the side of the screen
 *****English helper
 App that can identify any font, like adobe capture.
